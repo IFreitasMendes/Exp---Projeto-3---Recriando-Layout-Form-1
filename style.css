@@ -1,0 +1,21 @@
+h1, legend, h2 {
+  color: red;
+  font-family: ;
+}
+
+.pagina {
+  color: blue;
+  font-size: 14px;
+  line-height: 24px;
+  font-family: ;
+}
+
+span {
+  color: green;
+  font-size: 12px;
+  line-height: 20px;
+}
+
+header p {
+  font-size: 20px;
+}
