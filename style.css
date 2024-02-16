@@ -1,5 +1,19 @@
+body{
+  padding-top: 145px;
+}
+body::before{
+  content: '';
+  background: #535971;
+  height: 436px;
+  width: 100%;
+
+  position: absolute;
+  z-index: -1;
+  top: 0;
+}
+
 h1, legend, h2 {
-  color: red;
+  color: #535971;
   font-family: "Staatliches", sans-serif;
 }
 
@@ -8,6 +22,8 @@ h1, legend, h2 {
   font-size: 14px;
   line-height: 24px;
   font-family: "Poppins", sans-serif;
+  width: 750px;
+  margin-inline: auto;
 }
 
 span {
@@ -19,9 +35,16 @@ span {
 header h1 {
   color: white;
   font-size: 48px;
+ 
 
 }
 header p {
   font-size: 20px;
   color: white;
+  width: 417px;
+  margin-bottom: 58px;
+}
+
+header{
+  margin-inline: auto;
 }
