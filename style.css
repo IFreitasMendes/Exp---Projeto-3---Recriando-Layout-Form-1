@@ -4,14 +4,14 @@ h1, legend, h2 {
 }
 
 .pagina {
-  color: blue;
+  color: #4E4958;
   font-size: 14px;
   line-height: 24px;
   font-family: "Poppins", sans-serif;
 }
 
 span {
-  color: green;
+  color: #C1BCCC;
   font-size: 12px;
   line-height: 20px;
 }
